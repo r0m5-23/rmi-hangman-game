@@ -1,2 +1,3 @@
 # rmi-hangman-game
-Jogo do Enforcado baseado no Modelo Cliente-Servidor com recurso a Java RMI
+
+https://github.com/user-attachments/assets/9d92151c-1a07-4350-b67e-ec470a64de35
